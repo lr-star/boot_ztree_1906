@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vue_boot_02" />
+        <module name="ztree_01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot_vue_1906" target="1.8" />
+      <module name="vue_boot_02" target="1.8" />
+      <module name="ztree_01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot_vue_1906" options="-parameters" />
+      <module name="vue_boot_02" options="-parameters" />
+      <module name="ztree_01" options="-parameters" />
+    </option>
+  </component>
+</project>

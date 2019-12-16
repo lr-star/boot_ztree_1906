@@ -1,0 +1,38 @@
+{
+  "name" : "TStu1",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "stuId",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "stuName",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "stuAge",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "stuSex",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.by",
+  "savePath" : "E:/idea-work1/vue_boot_02/src/main/java/com/by",
+  "saveModelName" : "vue_boot_02"
+}
